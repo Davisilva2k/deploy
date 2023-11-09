@@ -1,0 +1,58 @@
+:root{
+    --cor-principal:orange;
+}
+.profile-image img{
+    width: 1080px;
+    border-radius: 200px;
+    border: 8px solid var(--cor-principal);
+
+}
+body{
+    background-color: gray;
+}
+
+
+    .container {
+        text-align: center;
+
+    }
+    .profile-info{
+        color: black;
+        font-size: 55px;
+        margin: 0 auto;
+    }
+    /* estilizaçao  da lista */
+    ul{
+        font-size: 65px;
+        list-style: none;
+        padding: 0;
+    }
+    ul li{
+        padding: 10px 0 ;
+    }
+    ion-icon{
+        color: white;
+    }
+    div{
+        font-size: 150px ;
+        color: blue;
+        padding: 80px;
+        }
+        .links{
+            border: 0px solid red;
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+        }
+        h1{
+            color: orangered;
+        }
+        .linkedin{
+            color: blue;
+        }
+
+    
+    
+   
+    
+    
